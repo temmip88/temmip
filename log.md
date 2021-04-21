@@ -1,6 +1,5 @@
 # Tässä on logi viikon 15 git harjoituksista joita teimme palvelinhallintakurssilla
 
-## Logi on luettavissa alhaalta ylös aikajärjestyksessä
 
 
 
