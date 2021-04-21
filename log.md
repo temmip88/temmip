@@ -1,6 +1,6 @@
 # Tässä on logi viikon 15 git harjoituksista joita teimme palvelinhallintakurssilla
 
-
+## Diffiä varten toinen otsikko
 
 
 commit c787b4813b58d3eeb0c5832e362a38b6f6b454ca (HEAD -> main, origin/main, origin/HEAD)
